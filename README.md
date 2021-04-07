@@ -4,7 +4,9 @@ This exposes the pattern between voter turnout and age caused by attempted votin
 
 ## Results
 
-TODO
+Voter turnout vs. age clearly converge to some common curve, which is different from other states.
+
+![alt text](plots/2020.png)
 
 ## Setup
 
